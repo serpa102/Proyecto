@@ -30,11 +30,11 @@ Prueba de consistencia: tome un registro de `model/test_set_with_proba.csv`, ing
 probabilidad con la columna `proba_YES` y con la del notebook.
 
 ## Declaración y evaluación del uso de IA
-- **Herramienta y propósito:** [Claude (Anthropic), modelo/versión]. [tarea]
-- **Prompt principal:** [copiar completo]
-- **Respuesta recibida:** [resumen]
-- **Verificación:** [qué ejecutaron y compararon]
-- **Problemas identificados:** [errores, alucinaciones u omisiones; si no hubo, indíquenlo]
-- **Ajustes realizados:** [qué corrigieron y qué conservaron]
+* Herramienta y propósito: Claude (Anthropic). Se utilizó como apoyo durante el desarrollo del proyecto de estimación de la etiqueta LUNG_CANCER, principalmente para resolver dudas sobre el código y comprender algunos procedimientos relacionados con el aprendizaje automático.
+* Prompt principal: Se le solicitó ayuda para revisar y comprender el código del proyecto, explicar algunos procedimientos utilizados en el entrenamiento del modelo y orientar sobre cómo mejorar su funcionamiento.
+* Respuesta recibida: La herramienta proporcionó explicaciones sobre el código, recomendaciones para organizar mejor el proceso y algunas sugerencias para trabajar con los datos y evaluar los resultados del modelo.
+* Verificación: Se revisaron las recomendaciones y se compararon con el funcionamiento del código en el entorno de trabajo. También se tuvo en cuenta que los resultados obtenidos fueran coherentes con el objetivo del proyecto.
+* Problemas identificados: Algunas explicaciones fueron generales y necesitaron revisarse para adaptarlas al código que estábamos utilizando. También fue necesario comprobar que las sugerencias fueran compatibles con nuestro proyecto.
+* Ajustes realizados: Se tomaron en cuenta las recomendaciones que ayudaban a comprender y organizar mejor el código. Se conservaron los procedimientos que ya estaban funcionando correctamente y se hicieron los cambios necesarios después de revisar su utilidad.
 
-Todos los integrantes comprenden el código entregado.
+Todos los integrantes comprenden el código entregado y conocen el funcionamiento general del modelo desarrollado.
