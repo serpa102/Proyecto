@@ -4,7 +4,7 @@ Proyecto de aula – Minería de Datos, Universidad de la Costa (prototipo acad�
 
 **Integrantes:** Alejandro Serpa
 
-**Aplicación pública:** [enlace de Streamlit Community Cloud]
+**Aplicación pública:** [https://proyecto-7gzppphmsferxc3fspnpyn.streamlit.app/]
 
 ## Contenido del repositorio
 - `app.py`: aplicación Streamlit (carga `model/pipeline.joblib`; no reentrena).
